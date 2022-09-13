@@ -1,0 +1,100 @@
+ManifestFileVersion: 0
+CRC: 3902018933
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 892fd3bc05d70500acca6777b758526d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9223d282745bbcf31f767a0542a5bbc4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ed791c037410f64985aa55eab94e3b8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card_7.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back15.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card front2.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back2.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back5.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card front6.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card front3.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card front7.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card_10.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card front1.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card_2.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back13.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card_5.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card front4.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card_6.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card front10.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back18.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card_8.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back7.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back1.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back17.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back6.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back10.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back4.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card_0.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card front5.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card_1.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back8.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back3.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card front8.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card_4.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back16.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card_9.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back14.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card_3.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card front9.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card_11.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back12.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back11.prefab
+- Assets/ExternalAssets/Modular Cards DEMO/Prefabs/Card back9.prefab
+Dependencies: []
